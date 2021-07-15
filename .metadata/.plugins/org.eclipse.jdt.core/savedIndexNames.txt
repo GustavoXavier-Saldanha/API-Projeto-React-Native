@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Usuario\Desktop\API-Ecommerce-main\.metadata\.plugins\org.eclipse.jdt.core
+3340388154.index
+175139432.index
